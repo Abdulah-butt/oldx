@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727807306326",
+    "project_id": "oldx-c9db8",
+    "storage_bucket": "oldx-c9db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727807306326:android:b7a1a5a6afef195e73e9f7",
+        "android_client_info": {
+          "package_name": "com.abdullah.oldx_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727807306326-59c7d05ij75emrupvodne7vc4h5835pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZx0I0hsYsP4I2B-7GPr77bimDdocAO7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727807306326-59c7d05ij75emrupvodne7vc4h5835pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
